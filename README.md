@@ -20,6 +20,8 @@ Welcome to my GitHub! I'm a passionate **Data Engineer** and **Software Engineer
 - Sentiment Analysis | Time Series Forecasting | Object Detection | Age & Gender Classification  
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadegh1404&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
 ## 🎓 Education  
 
 - **M.Eng in Artificial Intelligence**, University of Science and Technology (2022)  
