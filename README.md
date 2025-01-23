@@ -3,9 +3,13 @@
 🚀 **Data Engineer | Software Engineer | AI Enthusiast**  
 
 Welcome to my GitHub! I'm a passionate **Data Engineer** and **Software Engineer** with over 5 years of experience building scalable microservices, designing efficient data pipelines, and solving complex data challenges.  
+I'm Leaning java and love to contribute in java project.
+## 🛠️ Tech Stack  
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]
+[![Django](https://img.shields.io/badge/daphne-092E20?style=for-the-badge&logo=django&logoColor=green)]
+[![Fastapi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)]
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)]
 
-
-## 🛠️ Skills  
 
 **Programming Languages & Frameworks**  
 - Python | FastAPI | Django | Pytorch | scikit-learn | HuggingFace  
